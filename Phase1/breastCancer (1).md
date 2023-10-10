@@ -11,18 +11,18 @@
 # 3. Data
    We will go over a detailed description of the dataset used in this project. The dataset in focus is the Breast Cancer Wisconsin (Diagnostic) dataset, which plays a crucial role in achieving the goal of accurate breast cancer diagnosis and classification.
    
- # The goal of collecting this dataset 
+ ### The goal of collecting this dataset 
 the goal of the Breast Cancer Wisconsin (Diagnostic) dataset is to aid in the diagnosis and classification of breast masses as either malignant (cancerous) or benign (non-cancerous).
 
 By analyzing the computed features of cell nuclei extracted from digitized images of fine needle aspirate (FNA), the dataset aims to provide a foundation for developing models and algorithms that can accurately predict the nature of breast tumors.
 
 The ultimate objective is to enhance the accuracy and efficiency of diagnosing breast cancer, enabling medical professionals to make informed decisions regarding patient treatment and care.
    
-# The source of the dataset
+### The source of the dataset
 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-# General information about the dataset 
+### General information about the dataset 
 
 1- Number of attributes (variables, or columns): 32  (the last column (X) Contains only missing "NA" values, that why we didn't count it, and it well be removed later on)
 
@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 7- Class distribution: The dataset is imbalanced, with 357 instances classified as benign and 212 instances classified as malignant.
 
-# Attributes table
+### Attributes table
    The attributes table present important information about the attributes associated with the dataset. This table serves as a reference guide, outlining the different attributes, their description, data type, and possible values. It aims to provide a comprehensive overview of the dataset, enabling us to understand and utilize the information effectively.
 <table>
 <tr>
