@@ -15,3 +15,6 @@
    The goal is to predict the nature of breast tumors based on the analyzed features, enabling medical professionals to make informed decisions regarding patient treatment and care.
 
    Solving the problem of diagnosing breast cancer is important because it can lead to early detection, appropriate treatment plans, improved survival rates, and optimal allocation of healthcare resources.
+
+## Phase2 guide:
+To be able to review the report, and the code with its output download the html document and open it please. 
