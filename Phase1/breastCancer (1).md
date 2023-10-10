@@ -1,11 +1,23 @@
-# The goal of collecting this dataset 
+# 1. Problem
+   The problem is the accurate diagnosis of breast masses as malignant (cancerous) or benign (non- cancerous) using computed features from digitized images of fine needle aspirate (FNA). The features consist of radius, texture,  perimeter,  area, smoothness, compactness,  concavity, concave.points, symmetry, and fractal_dimension of the mass,and there mean, worst, and standard error(SE).
+    
+   The goal is to predict the nature of breast tumors based on the analyzed features, enabling medical professionals to make informed decisions regarding patient treatment and care.
 
+   Solving the problem of diagnosing breast cancer is important because it can lead to early detection, appropriate treatment plans, improved survival rates, and optimal allocation of healthcare resources.
+
+# 2. Data Mining Task
+   The problem can be defined as a data mining binary classification task. The task involves training models and algorithms on the features of breast masses to predict whether a specific mass is malignant(M) or benign(B). The objective is to optimize the classification model's accuracy and performance in differentiating between the two classes using the dataset as the training data. Data mining techniques such as feature selection, model training, and performance evaluation would be employed to solve this task efficiently.
+
+# 3. Data
+   We will go over a detailed description of the dataset used in this project. The dataset in focus is the Breast Cancer Wisconsin (Diagnostic) dataset, which plays a crucial role in achieving the goal of accurate breast cancer diagnosis and classification.
+   
+ # The goal of collecting this dataset 
 the goal of the Breast Cancer Wisconsin (Diagnostic) dataset is to aid in the diagnosis and classification of breast masses as either malignant (cancerous) or benign (non-cancerous).
 
 By analyzing the computed features of cell nuclei extracted from digitized images of fine needle aspirate (FNA), the dataset aims to provide a foundation for developing models and algorithms that can accurately predict the nature of breast tumors.
 
 The ultimate objective is to enhance the accuracy and efficiency of diagnosing breast cancer, enabling medical professionals to make informed decisions regarding patient treatment and care.
-
+   
 # The source of the dataset
 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
@@ -26,6 +38,8 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 7- Class distribution: The dataset is imbalanced, with 357 instances classified as benign and 212 instances classified as malignant.
 
+# Attributes table
+   The attributes table present important information about the attributes associated with the dataset. This table serves as a reference guide, outlining the different attributes, their description, data type, and possible values. It aims to provide a comprehensive overview of the dataset, enabling us to understand and utilize the information effectively.
 <table>
 <tr>
     <th>No</th> 
