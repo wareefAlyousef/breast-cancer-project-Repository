@@ -16,5 +16,5 @@
 
    Solving the problem of diagnosing breast cancer is important because it can lead to early detection, appropriate treatment plans, improved survival rates, and optimal allocation of healthcare resources.
 
-## Phase2 guide:
+## Phase3 guide:
 To review the report, and the code with its output download the HTML document and open it on your web browser. 
